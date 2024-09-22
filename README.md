@@ -8,6 +8,10 @@ DiaCure is a machine learning project aimed at early detection of diabetes using
 - **Optimized Neural Networks**: Implements nature-inspired algorithms (e.g., Genetic Algorithms, Particle Swarm Optimization) for enhanced model performance.
 - **User-Friendly Interface**: Designed for healthcare professionals with an emphasis on interpretability.
 
+## Screenshots:
+
+![Diacure](screenshots/diacure.png)
+
 ## Getting Started
 
 ### Prerequisites
