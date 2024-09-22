@@ -25,7 +25,7 @@ DiaCure is a machine learning project aimed at early detection of diabetes using
 ### Usage
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/DiaCure.git
+   git clone https://github.com/suhass434/Diacure-website.git
    cd DiaCure
    ```
 
